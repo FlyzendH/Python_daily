@@ -1,0 +1,34 @@
+item {
+  name: "none_of_the_above"
+  label: 0
+  display_name: "background"
+}
+item {
+  name: "normal_J"
+  label: 1
+  display_name: "normal_J"
+}
+item {
+  name: "normal_L"
+  label: 2
+  display_name: "normal_L"
+}
+item {
+  name: "abnormal_J"
+  label: 3
+  display_name: "abnormal_J"
+}
+item {
+  name: "abnormal_L"
+  label: 4
+  display_name: "abnormal_L"
+}
+item {
+  name: "fork"
+  label: 5
+  display_name: "fork"
+}item {
+  name: "head"
+  label: 6
+  display_name: "head"
+}
